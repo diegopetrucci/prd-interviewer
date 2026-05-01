@@ -1,0 +1,21 @@
+{
+  "name": "prd-interviewer",
+  "version": "1.0.0",
+  "description": "Interview the user to build a detailed product requirements document.",
+  "author": {
+    "name": "Diego Petrucci",
+    "url": "https://github.com/diegopetrucci"
+  },
+  "repository": "https://github.com/diegopetrucci/prd-interviewer",
+  "license": "MIT",
+  "keywords": ["prd", "product", "requirements", "planning"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PRD Interviewer",
+    "shortDescription": "Build PRDs through interview",
+    "longDescription": "Turn product ideas into detailed requirements by asking focused questions one at a time.",
+    "developerName": "Diego Petrucci",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"]
+  }
+}
