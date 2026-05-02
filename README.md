@@ -26,6 +26,14 @@ npx skills add https://github.com/diegopetrucci/prd-interviewer --skill prd-inte
 /plugin install prd-interviewer@diegopetrucci-claude-plugins
 ```
 
+### As a Codex plugin
+
+```shell
+codex plugin marketplace add diegopetrucci/ai-agents-skills
+```
+
+Restart Codex, then install `prd-interviewer` from the "Diego Petrucci Agent Skills" marketplace in the plugin directory.
+
 ## Usage
 
 Trigger the skill when you have a product idea to flesh out:
