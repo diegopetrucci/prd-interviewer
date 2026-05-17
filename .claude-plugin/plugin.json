@@ -1,5 +1,5 @@
 {
   "name": "prd-interviewer",
   "description": "Iteratively interview the user to build a detailed PRD, one question at a time",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

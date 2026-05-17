@@ -1,6 +1,6 @@
 {
   "name": "prd-interviewer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Interview the user to build a detailed product requirements document.",
   "author": {
     "name": "Diego Petrucci",
